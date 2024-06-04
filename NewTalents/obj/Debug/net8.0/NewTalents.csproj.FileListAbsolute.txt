@@ -1,0 +1,14 @@
+C:\Estudos\desafio-tdd\NewTalents\bin\Debug\net8.0\NewTalents.exe
+C:\Estudos\desafio-tdd\NewTalents\bin\Debug\net8.0\NewTalents.deps.json
+C:\Estudos\desafio-tdd\NewTalents\bin\Debug\net8.0\NewTalents.runtimeconfig.json
+C:\Estudos\desafio-tdd\NewTalents\bin\Debug\net8.0\NewTalents.dll
+C:\Estudos\desafio-tdd\NewTalents\bin\Debug\net8.0\NewTalents.pdb
+C:\Estudos\desafio-tdd\NewTalents\obj\Debug\net8.0\NewTalents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\desafio-tdd\NewTalents\obj\Debug\net8.0\NewTalents.AssemblyInfoInputs.cache
+C:\Estudos\desafio-tdd\NewTalents\obj\Debug\net8.0\NewTalents.AssemblyInfo.cs
+C:\Estudos\desafio-tdd\NewTalents\obj\Debug\net8.0\NewTalents.csproj.CoreCompileInputs.cache
+C:\Estudos\desafio-tdd\NewTalents\obj\Debug\net8.0\NewTalents.dll
+C:\Estudos\desafio-tdd\NewTalents\obj\Debug\net8.0\refint\NewTalents.dll
+C:\Estudos\desafio-tdd\NewTalents\obj\Debug\net8.0\NewTalents.pdb
+C:\Estudos\desafio-tdd\NewTalents\obj\Debug\net8.0\NewTalents.genruntimeconfig.cache
+C:\Estudos\desafio-tdd\NewTalents\obj\Debug\net8.0\ref\NewTalents.dll
